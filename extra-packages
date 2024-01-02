@@ -1,0 +1,10 @@
+cmake
+device-tree-compiler
+file
+git
+ninja-build
+wget
+xz-utils
+python3
+python3-pip
+python3-venv
