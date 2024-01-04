@@ -1,4 +1,4 @@
-FROM quay.io/toolbx-images/ubuntu-toolbox:22.04
+FROM quay.io/toolbx/ubuntu-toolbox:22.04
 
 ARG ZEPHYR_SDK_VERSION=0.16.4
 ARG ZEPHYR_SDK_TOOLCHAIN="arm-zephyr-eabi"
